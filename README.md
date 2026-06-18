@@ -191,4 +191,4 @@ product-doc-skills/
 
 ## License
 
-The `prd-writer` skill includes its license in `prd-writer/LICENSE.txt`.
+This repository is licensed under the [MIT License](LICENSE). The `prd-writer` skill also retains its original terms in `prd-writer/LICENSE.txt`.
